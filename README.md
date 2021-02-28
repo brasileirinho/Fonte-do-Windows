@@ -526,3 +526,7 @@ vgasyst.fon
 webdings.ttf
 wingding.ttf
 
+
+Fontes:
+
+https://support.microsoft.com/pt-br/office/fontes-que-s%C3%A3o-instaladas-com-produtos-do-microsoft-office-2013-35dfa558-f367-43e6-8f62-7305096b5c21
